@@ -1,0 +1,15 @@
+1) Abrir el CMD (pones en buscar "CMD")
+2) Entras al CMD (pantalla negra con simbolos)
+3) Verificas que este en "C:\Users\Dai\Documents>"
+4) Escribis cd Documents
+
+Para subir modificaciones:
+1) git add . (con el "." inclusive)
+2) git commit -m "Mi primer commit" (donde dice "mi primer commit" escribir el nombre de la actualizacion o no pones nada, lo dejas vacio)
+3) git push (si no funciona pones git push -u origin main)
+
+Para descargar:
+Te situacion en "Documents nuevamente"
+1) git clone https://github.com/daidaiherrera2296/Entre-escuelas.git
+2) cd Entre-escuelas
+3) git status
