@@ -3,6 +3,8 @@
 3) Verificas que este en "C:\Users\Dai\Documents>"
 4) Escribis cd Documents
 
+Ctrl+c (copiar) y Ctrl+v(pegar)
+
 Para subir modificaciones:
 1) git add . (con el "." inclusive)
 2) git commit -m "Mi primer commit" (donde dice "mi primer commit" escribir el nombre de la actualizacion o no pones nada, lo dejas vacio)
